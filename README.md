@@ -45,4 +45,4 @@ N = (10 × вес в килограммах) + (6,25 × рост в сантим
 File's descriptions:
 - index.html - html
 - Folders: css, fonts и img - the static resources necessary for registration are found;
-- FOlder js - js scripts.
+- Folder js - js scripts.
